@@ -52,27 +52,27 @@ This project focuses on analyzing bank customer loan data to identify risk facto
 -  Slicers: **Loan Status, Home Ownership, Job Experience**
 -  KPI Cards: **Average Loan Amount**, **Approval Rate**, **Avg. Credit Score**
 
+![Power BI Visuals](./BankRisk_Dashboard.png)
+
 
 
 ##  Key Insights
 
 -  Credit score below 600 → high rejection rate
-   Income > ₹500,000 → increased approval chances
-- ⚠ Bankruptcy history → 40% more likely to be rejected
+-   Income > ₹500,000 → increased approval chances
+-  Bankruptcy history → 40% more likely to be rejected
 -  Higher monthly debt → increased loan risk
 
 
 
-## 📄 Summary
+##  Summary
 
 > Performed end-to-end analysis of 30,000+ loan applications using Python and Power BI. Uncovered trends in approval patterns based on credit score, income, and financial history. Built visual dashboards to assist banks in making risk-aware loan decisions.
 
 
-## 📬 Contact
+##  Contact
 
 **Name**: Sakthi Kumar B 
-**LinkedIn**: [Your LinkedIn URL]  
-**GitHub**: [Your GitHub URL]  
 **Email**: b.sakthikumar10@gmail.com
 
 
