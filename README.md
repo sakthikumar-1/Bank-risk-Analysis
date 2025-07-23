@@ -20,8 +20,8 @@ This project focuses on analyzing bank customer loan data to identify risk facto
 -  Python (Pandas, Matplotlib, Seaborn)
 -  Power BI
 -  Jupyter Notebook
-- 🗃 CSV File (Cleaned Dataset)
-- 🖥 GitHub
+-  CSV File (Cleaned Dataset)
+-  GitHub
 
 
 
@@ -73,6 +73,7 @@ This project focuses on analyzing bank customer loan data to identify risk facto
 ##  Contact
 
 **Name**: Sakthi Kumar B 
+
 **Email**: b.sakthikumar10@gmail.com
 
 
