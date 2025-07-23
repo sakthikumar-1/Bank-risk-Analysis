@@ -75,6 +75,12 @@ This project focuses on analyzing bank customer loan data to identify risk facto
 **Name**: Sakthi Kumar B 
 
 **Email**: b.sakthikumar10@gmail.com
+ 
+**LinkedIn**: [linkedin.com/in/sakthikumar1](https://www.linkedin.com/in/sakthikumar1)  
+
+**GitHub**: [github.com/sakthikumar-1](https://github.com/sakthikumar-1)
+
+
 
 
 
